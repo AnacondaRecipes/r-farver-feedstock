@@ -62,8 +62,6 @@ extra:
   recipe-maintainers:
     - conda-forge/r
 
-extra:
-
   skip-lints:
     # These are needed because of bug: https://github.com/anaconda-distribution/anaconda-linter/issues/197
     - http_url
